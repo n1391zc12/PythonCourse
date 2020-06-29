@@ -1,2 +1,2 @@
-# PythonCourse
+# Python
 Be taught the Python
